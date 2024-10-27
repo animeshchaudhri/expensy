@@ -29,7 +29,7 @@ The Expense Tracker API allows users to manage their expenses and track shared c
 
 ```bash
 git clone https://github.com/animeshchaudhri/expensy
-cd expense-tracker
+cd expensy
 ```
 
 ### Step 2: Create a Virtual Environment
