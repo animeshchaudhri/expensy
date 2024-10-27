@@ -1,0 +1,49 @@
+# Python
+*.py[cod]
+__pycache__/
+*.pyo
+*.pyd
+*.pyc
+
+# Django
+db.sqlite3
+/media
+/staticfiles
+.env
+
+# Virtual Environment
+venv/
+ENV/
+env/
+env.bak/
+venv.bak/
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# Test and Coverage
+.coverage
+htmlcov/
+*.log
+nosetests.xml
+coverage.xml
+*.cover
+*.egg-info/
+
+# Miscellaneous
+*.pot
+*.mo
+*.log
+*.tmp
+*.bak
+*.pid
+*.seed
+
+# Backup files
+*~
